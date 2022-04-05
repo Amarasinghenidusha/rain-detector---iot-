@@ -10,7 +10,7 @@ SerialPin.P15,
 SerialPin.P16,
 BaudRate.BaudRate115200,
 "AI-THINKER_D8D017",
-"your_pw"
+""
 )
 if (ESP8266ThingSpeak.isThingSpeakConnected()) {
     basic.showIcon(IconNames.Happy)
